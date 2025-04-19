@@ -20,7 +20,7 @@ Unindo diferentes vivências, talentos e habilidades, nossa missão é criar sol
 Confira abaixo a composição das nossas squads:
 
 ### 🎯 Product Owners
-**[Carolina Freire](http://www.linkedin.com/in/freirecarolina/), [Luciana Belingieri](http://www.linkedin.com/in/lucianabelingieri/http://www.linkedin.com/in/lucianabelingieri/), [Gislane Araújo](http://www.linkedin.com/in/gislanearaujo/), [Raquel Garcia](https://www.linkedin.com/in/raquelgarcia5/)**
+**[Carolina Freire](http://www.linkedin.com/in/freirecarolina/), [Luciana Belingieri](http://www.linkedin.com/in/lucianabelingieri/), [Gislane Araújo](http://www.linkedin.com/in/gislanearaujo/), [Raquel Garcia](https://www.linkedin.com/in/raquelgarcia5/)**
 
 ### 🧭 Scrum Masters
 **[Amanda Custódio](http://www.linkedin.com/in/amandacustodiodasilva/), [Marcos Rocha](http://www.linkedin.com/in/marcos-rocha-4abb3247/), [Ítalo Chesley](http://www.linkedin.com/in/italochesley/), [Leonardo Purcino](http://www.linkedin.com/in/leonardo-purcino-agilidade)**
